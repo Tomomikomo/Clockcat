@@ -1,3 +1,3 @@
 # Clockcat
 
-Simple clock app for Android unable to work in the background
+Simple clock app for android that can't work in background
